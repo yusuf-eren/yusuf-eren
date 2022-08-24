@@ -1,6 +1,6 @@
 ## Hi there 👋, Hi, I'm Yusuf
 ### Full Stack Developer(NodeJS / ExpressJS / MongoDB / Cloud Systems)
-![Full Stack Developer(NodeJS / ExpressJS / MongoDB / Cloud Systems)]
+Full Stack Developer(NodeJS / ExpressJS / MongoDB / Cloud Systems)
 
 Hi, I'm Yusuf. 
 
