@@ -1,11 +1,7 @@
-## Hi there 👋, Hi, I'm Yusuf
-### Full Stack Developer(NodeJS / ExpressJS / MongoDB / Cloud Systems)
+## Hi there 👋, I'm Yusuf
+### Node.js Developer(NodeJS / ExpressJS / MongoDB / Cloud Systems)
 
 Hi, I'm Yusuf. 
-
-I studied Science in High School. I developed Arduino systems in high school and taught them to other students. We developed 7 TUBITAK(The Scientific and Technological Research Council of Turkey) projects in my last year. Then I joined FRC in 7536 Anka Robotics. I worked here for 1 year as a software developer.
-
- After high school, I applied to Computer Programming at Sakarya University.  I graduated. I developed backend applications with NodeJS.
 
 I have a huge interest in payment systems and e-commerce, infrastructures, and technologies. I'm interested in backend and serverless technologies.
 
