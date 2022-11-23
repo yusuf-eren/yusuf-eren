@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Yusuf
-### Node.js Developer(NodeJS / ExpressJS / MongoDB / Cloud Systems)
+### Node.js Developer
+
+### Skills: (NodeJS, TypeScript, ExpressJS, NestJS, MongoDB, AWS, Microservices Architecture, Redis, Unit Testing)
 
 Hi, I'm Yusuf. 
 
